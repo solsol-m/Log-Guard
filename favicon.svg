@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="shieldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4FD1C5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38B2AC;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lockGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E5E7EB;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#1A202C" opacity="0.95"/>
+  
+  <!-- Orbital Ring -->
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#4FD1C5" stroke-width="4" opacity="0.3"/>
+  
+  <!-- Orbital Dots -->
+  <circle cx="476" cy="256" r="16" fill="#4FD1C5"/>
+  <circle cx="36" cy="256" r="16" fill="#4FD1C5"/>
+  <circle cx="256" cy="36" r="12" fill="#38B2AC"/>
+  <circle cx="256" cy="476" r="12" fill="#38B2AC"/>
+  
+  <!-- Shield Shape -->
+  <path d="M 256 80 L 380 130 L 380 250 C 380 350 320 410 256 450 C 192 410 132 350 132 250 L 132 130 Z" 
+        fill="url(#shieldGradient)" 
+        stroke="#2D3748" 
+        stroke-width="4"/>
+  
+  <!-- Lock Body -->
+  <rect x="220" y="260" width="72" height="80" rx="8" 
+        fill="url(#lockGradient)" 
+        stroke="#1A202C" 
+        stroke-width="3"/>
+  
+  <!-- Lock Shackle -->
+  <path d="M 230 260 L 230 230 C 230 210 240 190 256 190 C 272 190 282 210 282 230 L 282 260" 
+        fill="none" 
+        stroke="url(#lockGradient)" 
+        stroke-width="12" 
+        stroke-linecap="round"/>
+  
+  <!-- Lock Keyhole -->
+  <circle cx="256" cy="290" r="8" fill="#1A202C"/>
+  <rect x="252" y="290" width="8" height="28" rx="2" fill="#1A202C"/>
+  
+  <!-- Shine Effect -->
+  <path d="M 256 80 L 340 115 L 340 200 C 340 250 310 290 280 315" 
+        fill="none" 
+        stroke="#81E6D9" 
+        stroke-width="3" 
+        opacity="0.4" 
+        stroke-linecap="round"/>
+</svg>
