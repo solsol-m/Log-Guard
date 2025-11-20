@@ -1,0 +1,81 @@
+2025-11-20 08:15:23 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid password
+2025-11-20 08:15:45 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid password
+2025-11-20 08:16:12 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid username
+2025-11-20 08:16:34 [INFO] Login attempt from 198.51.100.7 - FAILED - Account locked
+2025-11-20 08:17:01 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid password
+2025-11-20 08:17:28 [INFO] Login attempt from 192.0.2.55 - SUCCESS - User authenticated
+2025-11-20 08:18:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Too many attempts
+2025-11-20 08:18:42 [INFO] Login attempt from 203.0.113.42 - FAILED - IP temporarily blocked
+2025-11-20 08:19:05 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid credentials
+2025-11-20 08:19:33 [INFO] Login attempt from 192.0.2.55 - FAILED - Invalid password
+2025-11-20 08:20:01 [INFO] Login attempt from 203.0.113.42 - FAILED - Unauthorized access attempt
+2025-11-20 08:20:28 [INFO] Login attempt from 203.0.113.42 - FAILED - Brute force detected
+2025-11-20 08:21:15 [INFO] Login attempt from 198.51.100.7 - FAILED - Multiple failed attempts
+2025-11-20 08:21:42 [INFO] Login attempt from 192.0.2.55 - SUCCESS - User authenticated
+2025-11-20 08:22:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Access denied
+2025-11-20 08:22:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid session
+2025-11-20 08:23:03 [INFO] Login attempt from 198.51.100.7 - FAILED - Password expired
+2025-11-20 08:23:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Suspicious activity
+2025-11-20 08:24:15 [INFO] Login attempt from 192.0.2.55 - FAILED - Wrong credentials
+2025-11-20 08:24:42 [INFO] Login attempt from 203.0.113.42 - FAILED - Account locked
+2025-11-20 08:25:09 [INFO] Login attempt from 203.0.113.42 - FAILED - IP blacklisted
+2025-11-20 08:25:36 [INFO] Login attempt from 198.51.100.7 - FAILED - Authentication failed
+2025-11-20 08:26:03 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid token
+2025-11-20 08:26:30 [INFO] Login attempt from 198.51.100.7 - FAILED - User not found
+2025-11-20 08:27:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Security breach attempt
+2025-11-20 08:27:42 [INFO] Login attempt from 192.0.2.55 - FAILED - Incorrect password
+2025-11-20 08:28:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Unauthorized
+2025-11-20 08:28:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Access violation
+2025-11-20 08:29:03 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid credentials
+2025-11-20 08:29:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Denied
+2025-11-20 08:30:15 [INFO] Login attempt from 192.0.2.55 - SUCCESS - Login successful
+2025-11-20 08:30:42 [INFO] Login attempt from 203.0.113.42 - FAILED - Rejected
+2025-11-20 08:31:09 [INFO] Login attempt from 198.51.100.7 - FAILED - Login failed
+2025-11-20 08:31:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid attempt
+2025-11-20 08:32:03 [INFO] Login attempt from 203.0.113.42 - FAILED - Authorization failed
+2025-11-20 08:32:30 [INFO] Login attempt from 198.51.100.7 - FAILED - Bad credentials
+2025-11-20 08:33:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Access denied
+2025-11-20 08:33:42 [INFO] Login attempt from 192.0.2.55 - FAILED - Invalid login
+2025-11-20 08:34:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Authentication error
+2025-11-20 08:34:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed login
+2025-11-20 08:35:03 [INFO] Login attempt from 198.51.100.7 - FAILED - Incorrect credentials
+2025-11-20 08:35:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Unauthorized access
+2025-11-20 08:36:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Login denied
+2025-11-20 08:36:42 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid user
+2025-11-20 08:37:09 [INFO] Login attempt from 192.0.2.55 - FAILED - Wrong password
+2025-11-20 08:37:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed authentication
+2025-11-20 08:38:03 [INFO] Login attempt from 203.0.113.42 - FAILED - Access rejected
+2025-11-20 08:38:30 [INFO] Login attempt from 198.51.100.7 - FAILED - Login rejected
+2025-11-20 08:39:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid access
+2025-11-20 08:39:42 [INFO] Login attempt from 203.0.113.42 - FAILED - Denied access
+2025-11-20 08:40:09 [INFO] Login attempt from 192.0.2.55 - SUCCESS - Authenticated
+2025-11-20 08:40:36 [INFO] Login attempt from 198.51.100.7 - FAILED - Authentication denied
+2025-11-20 08:41:03 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed to authenticate
+2025-11-20 08:41:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Login attempt failed
+2025-11-20 08:42:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Access not granted
+2025-11-20 08:42:42 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid login attempt
+2025-11-20 08:43:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Unauthorized login
+2025-11-20 08:43:36 [INFO] Login attempt from 192.0.2.55 - FAILED - Login error
+2025-11-20 08:44:03 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed access
+2025-11-20 08:44:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Authentication failure
+2025-11-20 08:45:15 [INFO] Login attempt from 198.51.100.7 - FAILED - Access failure
+2025-11-20 08:45:42 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid authentication
+2025-11-20 08:46:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Login failure
+2025-11-20 08:46:36 [INFO] Login attempt from 198.51.100.7 - FAILED - Failed login attempt
+2025-11-20 08:47:03 [INFO] Login attempt from 192.0.2.55 - FAILED - Authentication error
+2025-11-20 08:47:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Rejected login
+2025-11-20 08:48:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Denied login
+2025-11-20 08:48:42 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid credentials
+2025-11-20 08:49:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Access error
+2025-11-20 08:49:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed to login
+2025-11-20 08:50:03 [INFO] Login attempt from 192.0.2.55 - SUCCESS - Login accepted
+2025-11-20 08:50:30 [INFO] Login attempt from 198.51.100.7 - FAILED - Login not allowed
+2025-11-20 08:51:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Authentication rejected
+2025-11-20 08:51:42 [INFO] Login attempt from 203.0.113.42 - FAILED - Invalid session token
+2025-11-20 08:52:09 [INFO] Login attempt from 198.51.100.7 - FAILED - Credentials invalid
+2025-11-20 08:52:36 [INFO] Login attempt from 203.0.113.42 - FAILED - Login blocked
+2025-11-20 08:53:03 [INFO] Login attempt from 192.0.2.55 - FAILED - Access blocked
+2025-11-20 08:53:30 [INFO] Login attempt from 203.0.113.42 - FAILED - Failed security check
+2025-11-20 08:54:15 [INFO] Login attempt from 203.0.113.42 - FAILED - Security violation
+2025-11-20 08:54:42 [INFO] Login attempt from 198.51.100.7 - FAILED - Invalid access attempt
+2025-11-20 08:55:09 [INFO] Login attempt from 203.0.113.42 - FAILED - Breach attempt
